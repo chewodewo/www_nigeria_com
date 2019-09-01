@@ -1,0 +1,18 @@
+title: John Doe
+name: John Doe
+description: Site description goes here.
+baseurl: /www_nigeria_com
+lang: en
+github_username: johndoe
+social: |2
+
+      name: John Doe
+      links:
+          - https://twitter.com/johndoe
+          - https://github.com/johndoe
+remote_theme: siddhantgoel/clean-jekyll-theme
+remote_theme_layouts:
+  - default
+  - page
+  - post
+  - home
